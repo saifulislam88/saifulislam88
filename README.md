@@ -1,6 +1,5 @@
 <h2> Hi, I'm Saiful Islam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-📫**How to reach me**: \
 [![Twitter Badge](https://img.shields.io/badge/-IslamSaiful88-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IslamSaiful88)](https://twitter.com/IslamSaiful88) 
 [![Linkedin Badge](https://img.shields.io/badge/-saifulislam88-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saifulislam88/)](https://www.linkedin.com/in/saifulislam88/) 
 [![Gmail Badge](https://img.shields.io/badge/-saiful88.cse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saiful88.cse@gmail.com)](mailto:saiful88.cse@gmail.com) 
@@ -8,8 +7,8 @@
 
 
 
-I'm Minal Vaity from India, currently living in Chicago. I'm a graduate with a master's degree in Information Technology and Management at Illinois Institute of Technology.
-Currently working as a Risk Analysis Specialist at Bank Of America
+I'm Md. Saiful Islam from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at [University of Liberal Arts Bangladesh](https://ulab.edu.bd/)
+Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud.com/)
 
 ## <h3 align="left">⚡Technologies & Tools:</h3>
 Talk to me about
