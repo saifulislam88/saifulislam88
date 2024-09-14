@@ -11,7 +11,6 @@ I'm Md. Saiful Islam from Bangladesh, currently living in Dhaka. I'm a graduate 
 Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud.com/)
 
 ## <h3 align="left">⚡Technologies & Tools:</h3>
-Talk to me about
 - Querying for **Relational Database Management Systems**
 - Creating scalable cloud architecture using **AWS Cloud**
 
