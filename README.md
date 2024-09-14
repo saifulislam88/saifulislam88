@@ -7,8 +7,8 @@
 
 
 ## About me 🤔
-- I Love ❤️ Linux
-- Read my blogs: [Saiful's Blog]()
+- I Love ❤️ Linux\
+- Read my blogs: [Saiful's Blog]()\
 I'm Md. Saiful Islam from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at [University of Liberal Arts Bangladesh](https://ulab.edu.bd/)
 Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud.com/)
 
