@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam88&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam88" /> </p>
 
 
-
+## About me 🤔
+- I Love ❤️ Linux
+- Read my blogs: [Saiful's Blog]()
 I'm Md. Saiful Islam from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at [University of Liberal Arts Bangladesh](https://ulab.edu.bd/)
 Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud.com/)
 
@@ -29,15 +31,6 @@ Talk to me about
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <a href="https://proxmox.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" alt="Proxmox" width="60" height="35"/> </a>
 
-
-
-
-## About me 🤔
-- I Love ❤️ programming
-- 📫 Read my blogs: [Minal's Blog](https://minal-vaity95.medium.com/)
-- 🎯 Portfolio site: [Portfolio](https://minu27.github.io)
-- 🔔 Subscribe:- [Minal Vaity](https://www.youtube.com/channel/UCFGrLAQ8xazQ80tibrCE6kg)
-- ⚡ Fun fact: People read faster or slower depending what they read from.
 
 ## 📝 Blog posts:
 
