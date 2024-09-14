@@ -27,7 +27,7 @@ Talk to me about
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<img src="https://github.com/user-attachments/assets/e8800d25-66f7-4269-bfb8-a7e7cac7aa91" alt="Proxmox" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/4a1dceac-0b89-4477-a0a3-3dde1683a1e6" alt="Proxmox" width="40" height="40"/>
 
 
 
