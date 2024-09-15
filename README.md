@@ -1,8 +1,8 @@
 <h2> Hi, I'm Saiful Islam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-IslamSaiful88-1ca0f1?style=flat-square&logo=x&logoColor=white&link=https://x.com/IslamSaiful88)](https://x.com/IslamSaiful88) 
+[![Twitter Badge](https://img.shields.io/badge/-IslamSaiful88-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/IslamSaiful88)](https://x.com/IslamSaiful88) 
 [![Linkedin Badge](https://img.shields.io/badge/-saifulislam88-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saifulislam88/)](https://www.linkedin.com/in/saifulislam88/)
-[![Linkedin Badge](https://img.shields.io/badge/-saifulislam88-1ca0f1?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/search?q=saifulislam88)](https://hub.docker.com/search?q=saifulislam88)
+[![Docker Badge](https://img.shields.io/badge/-saifulislam88-1ca0f1?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/search?q=saifulislam88)](https://hub.docker.com/search?q=saifulislam88)
 [![Gmail Badge](https://img.shields.io/badge/-saiful88.cse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saiful88.cse@gmail.com)](mailto:saiful88.cse@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam88&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam88" /> </p>
 
