@@ -21,9 +21,6 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 - Technology Consultant & Trainer
 
 ## <h3 align="left">💡Tech Stack & Tools</h3>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
 ## <h3 align="left">🛠DevOps</h3>
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
