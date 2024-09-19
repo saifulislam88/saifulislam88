@@ -88,8 +88,8 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![Elastix SIP](https://img.shields.io/badge/elastix%20sip-FF6600.svg?style=flat&logo=elastix&logoColor=white)](https://www.elastix.org)
 
 
-## 📝 Blog posts:
+## <h3 align="left">📝Blog Posts</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. [Kubernetes](https://github.com/saifulislam88/kubernetes/)
+**1.**[Kubernetes](https://github.com/saifulislam88/kubernetes/)
 
 
