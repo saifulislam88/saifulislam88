@@ -15,7 +15,15 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 - Querying for **Relational Database Management Systems**
 - Creating scalable cloud architecture using **AWS Cloud**
 
-
+## ⚡ Role Domains
+- DevOps
+- Cloud
+- Platform Engineer
+- Site Reliability Engineer(SRE)
+- System Administration
+- Storage Engineer
+- Infrastructure Engineer
+- Technology Consultant & Trainer
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -27,6 +35,8 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+
+
 
   
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +52,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 ![MySQL](	https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
+
 
 
 
