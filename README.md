@@ -43,10 +43,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![Observium](https://img.shields.io/badge/observium-%23F37626.svg?style=for-the-badge&logo=observium&logoColor=white)](https://www.observium.org)
 [![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
-
 [![MikroTik](https://img.shields.io/badge/mikrotik-%23FF6600.svg?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com)
-
-
 [![GNU Bash](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
@@ -90,9 +87,6 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![Cacti](https://img.shields.io/badge/cacti-36A204?style=for-the-badge&logo=cacti&logoColor=white)](https://www.cacti.net)
 [![KVM](https://img.shields.io/badge/kvm-FF5733?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org)
 [![Container](https://img.shields.io/badge/container-008080?style=for-the-badge&logo=container&logoColor=white)](https://en.wikipedia.org/wiki/Container_(virtualization))
-[
-
-
 
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
