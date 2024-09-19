@@ -15,9 +15,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 - DevOps
 - Cloud Operations
 - Site Reliability Engineer(SRE)
-- System Planning and Operations
 - Platform Engineer
-- Core Storage Management 
 - Technology Consultant & Trainer
 
 ## <h3 align="left">💡🛠Tech Stack & Tools</h3>
