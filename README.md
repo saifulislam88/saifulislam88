@@ -21,7 +21,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 - Technology Consultant & Trainer
 
 
-<h3 align="left">⚡**Tech Stack & Tools**:</h3>
+<h3 align="left">⚡Tech Stack & Tools</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
