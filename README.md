@@ -91,6 +91,64 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![Container](https://img.shields.io/badge/container-008080?style=for-the-badge&logo=container&logoColor=white)](https://en.wikipedia.org/wiki/Container_(virtualization))
 </div>
 
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.com)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
+[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com)
+[![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org)
+[![Caddy](https://img.shields.io/badge/caddy-%2300C17C.svg?style=flat&logo=caddy&logoColor=white)](https://caddyserver.com)
+[![HAProxy](https://img.shields.io/badge/haproxy-%23000000.svg?style=flat&logo=haproxy&logoColor=white)](https://www.haproxy.org)
+[![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Zabbix](https://img.shields.io/badge/zabbix-%23A90100.svg?style=flat&logo=zabbix&logoColor=white)](https://www.zabbix.com)
+[![Observium](https://img.shields.io/badge/observium-%23F37626.svg?style=flat&logo=observium&logoColor=white)](https://www.observium.org)
+[![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+[![MikroTik](https://img.shields.io/badge/mikrotik-%23FF6600.svg?style=flat&logo=mikrotik&logoColor=white)](https://mikrotik.com)
+[![GNU Bash](https://img.shields.io/badge/gnu%20bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
+[![MariaDB](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org)
+[![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=flat&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![Apache CloudStack](https://img.shields.io/badge/apache%20cloudstack-D22128?style=flat&logo=apachecloudstack&logoColor=white)](https://cloudstack.apache.org)
+[![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![BIND DNS](https://img.shields.io/badge/BIND%20DNS-0088CC?style=flat&logo=dns&logoColor=white)](https://www.isc.org/bind/)
+[![PowerDNS](https://img.shields.io/badge/PowerDNS-0082C6?style=flat&logo=powerdns&logoColor=white)](https://www.powerdns.com)
+[![Postfix](https://img.shields.io/badge/postfix-%23E00033.svg?style=flat&logo=postfix&logoColor=white)](http://www.postfix.org)
+[![osTicket](https://img.shields.io/badge/osticket-FFA500?style=flat&logo=osticket&logoColor=white)](https://osticket.com)
+[![Truedesk](https://img.shields.io/badge/truedesk-3182DE?style=flat&logo=truedesk&logoColor=white)](https://www.truedesk.io)
+[![cPanel](https://img.shields.io/badge/cpanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)](https://cpanel.net)
+[![Webmin](https://img.shields.io/badge/webmin-326CE5?style=flat&logo=webmin&logoColor=white)](https://www.webmin.com)
+[![Ceph](https://img.shields.io/badge/ceph-EF5C55?style=flat&logo=ceph&logoColor=white)](https://ceph.io)
+[![NFS](https://img.shields.io/badge/nfs-00A5C9?style=flat&logo=nfs&logoColor=white)](https://nfs.sourceforge.io)
+[![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)](https://www.truenas.com)
+[![IPsec](https://img.shields.io/badge/IPsec-009639?style=flat&logo=ipsec&logoColor=white)](https://tools.ietf.org/html/rfc4301)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-FF7E00?style=flat&logo=openvpn&logoColor=white)](https://openvpn.net)
+[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)](https://www.wireguard.com)
+[![Ganglia](https://img.shields.io/badge/ganglia-326CE5?style=flat&logo=ganglia&logoColor=white)](http://ganglia.sourceforge.net)
+[![Nagios](https://img.shields.io/badge/nagios-%23EAB400.svg?style=flat&logo=nagios&logoColor=white)](https://www.nagios.org)
+[![Icinga](https://img.shields.io/badge/icinga-009B77?style=flat&logo=icinga&logoColor=white)](https://icinga.com)
+[![Zabbix](https://img.shields.io/badge/zabbix-%23A90100.svg?style=flat&logo=zabbix&logoColor=white)](https://www.zabbix.com)
+[![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+
+
+
+
+
+
+
+
+
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
