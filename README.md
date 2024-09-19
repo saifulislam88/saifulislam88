@@ -39,14 +39,15 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
 ![MySQL](	https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
 <a href="https://proxmox.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" alt="Proxmox" width="60" height="35"/> </a>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 
 ## 📝 Blog posts:
 1. [Kubernetes](https://github.com/saifulislam88/kubernetes/)
