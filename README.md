@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam88&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam88" /> </p>
 
 
-## 🤔 About me 
+⚡**About me** 
 I'm Md. Saiful Islam from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at [University of Liberal Arts Bangladesh](https://ulab.edu.bd/)
 Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud.com/)
 
-## ⚡ Role Domains
+⚡**Role Domains**
 - DevOps
 - Cloud Operations
 - Site Reliability Engineer(SRE)
@@ -19,7 +19,6 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 - Platform Engineer
 - Core Storage Management 
 - Technology Consultant & Trainer
-
 
 <h3 align="left">💡Tech Stack & Tools</h3>
 
