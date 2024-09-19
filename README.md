@@ -23,6 +23,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 
 ## <h3 align="left">⚡Tech Stack & Tools:</h3>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.com)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
@@ -87,7 +88,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![Cacti](https://img.shields.io/badge/cacti-36A204?style=for-the-badge&logo=cacti&logoColor=white)](https://www.cacti.net)
 [![KVM](https://img.shields.io/badge/kvm-FF5733?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org)
 [![Container](https://img.shields.io/badge/container-008080?style=for-the-badge&logo=container&logoColor=white)](https://en.wikipedia.org/wiki/Container_(virtualization))
-
+</div>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
