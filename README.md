@@ -26,6 +26,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 🛠**DevOps**
+
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
@@ -38,6 +39,7 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 [![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 🛠**System**
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.com)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org)
