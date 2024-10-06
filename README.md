@@ -90,6 +90,8 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 
 ## <h3 align="left">📝Blog Posts</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**1.**[Kubernetes](https://github.com/saifulislam88/kubernetes/)
+**1.**[Kubernetes](https://github.com/saifulislam88/kubernetes/)\
+**2.**[CI/CD](https://github.com/saifulislam88/cicd-pipeline)
+
 
 
