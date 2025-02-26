@@ -94,4 +94,8 @@ Currently working as a Lead Cloud Engineer at [Meghna Cloud](https://meghnacloud
 **2.**[CI/CD](https://github.com/saifulislam88/cicd-pipeline)
 
 
+## <h3 align="left">📝Tk Stack</h3>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1.**[Redis-Server v3.2.12](https://github.com/saifulislam88/redis-server/blob/main/Redis%20v3.2.12%20Installation%20on%20AlmaLinux%209.5(ParticularVersion).md#redis-v3212-installation-on-almalinux-95particular-version)\
+
 
